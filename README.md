@@ -1,2 +1,2 @@
-# mvtprovider
+# provider
 mvt provider from tegola
